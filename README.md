@@ -1,45 +1,35 @@
 # HR-Analytics-Dashboard-
-HR Analytics Dashboard
 
-📊 Overview
+**📊 Overview**
 
 This HR Analytics Dashboard is a Power BI project designed to analyze and visualize key HR metrics. The dashboard provides insights into employee headcount, attrition rates, average salary, demographics, and recruitment trends, helping HR teams make data-driven decisions.
 
-🎯 Objectives
+**🎯 Objectives**
 
-Track workforce trends such as headcount, attrition rate, and average age.
+* Track workforce trends such as headcount, attrition rate, and average age.
+* Analyze employee demographics including gender distribution, marital status, and age buckets.
+* Monitor recruitment sources and employee tenure.
+* Provide interactive visualizations for better decision-making.
 
-Analyze employee demographics including gender distribution, marital status, and age buckets.
+**🛠️ Tech Stack**
 
-Monitor recruitment sources and employee tenure.
+* Power BI for data visualization and reporting
+* DAX (Data Analysis Expressions) for calculated measures
+* Excel / CSV dataset as the data source
 
-Provide interactive visualizations for better decision-making.
+**📌 Key Features**
 
-🛠️ Tech Stack
+* 🔹 HR KPIs and Measures
 
-Power BI for data visualization and reporting
+**Key Performance Indicators (KPIs):**
 
-DAX (Data Analysis Expressions) for calculated measures
+* Headcount
+* Attrition & Attrition %
+* Average Age
+* Average Salary
+* Cumulative Headcount
 
-Excel / CSV dataset as the data source
-
-📌 Key Features
-
-🔹 HR KPIs and Measures
-
-The dashboard includes the following Key Performance Indicators (KPIs):
-
-Headcount
-
-Attrition & Attrition %
-
-Average Age
-
-Average Salary
-
-Cumulative Headcount
-
-🔹 Data Visualizations
+**🔹 Data Visualizations**
 
 Headcount Trends: Breakdown by department, gender, and hire year.
 
