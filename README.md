@@ -46,8 +46,6 @@ This HR Analytics Dashboard is a Power BI project designed to analyze and visual
 
 🚀 How to Use
 
-Download the Power BI file from the repository:https://app.powerbi.com/links/fDGf7c9Rix?ctid=0765532a-06c1-4f0f-9f39-394689f5f8fe&pbi_source=linkShare
-
-Open it in Power BI Desktop.
-
-Interact with the visualizations using slicers and filters.
+* Download the Power BI file from the repository:https://app.powerbi.com/links/fDGf7c9Rix?ctid=0765532a-06c1-4f0f-9f39-394689f5f8fe&pbi_source=linkShare
+* Open it in Power BI Desktop.
+* Interact with the visualizations using slicers and filters.
